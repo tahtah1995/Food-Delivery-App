@@ -1,5 +1,5 @@
 # Food-Delivery-App
- this project s is 80% Done so still there bugs so take care 
+ this project s is 80% Done so still there are bugs so take care 
  
 
 Hello Welcome to My Repo this food delivery app  Designed in React Native Expo
