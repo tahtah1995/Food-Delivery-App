@@ -1,0 +1,306 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://i.postimg.cc/kXL6WzF5/11.png",
+  "brand": "Plates",
+  "price": 100,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Red Sweet",
+  "description": "straweberry Drick with Chocloate Cake with delicious Dressing",
+  "category": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 30,
+  "__v": 0
+ 
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://i.postimg.cc/gJBkmLg0/12.png",
+  "brand": " Plates",
+  "price": 490,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Vegtables Rice",
+  "description": "Special Rice Plate with Rich choice of vegatables\n",
+  "category": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 30,
+  "__v": 0
+
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://i.postimg.cc/JzvNGgv1/151235720-224178656028605-8892423016330511517-n-removebg-preview.png",
+  "brand": "Casserole",
+  "price": 200,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Macroni with Medozrailai",
+  "description": "Declecuios Juicy casserlo with whithe sauce and cheese macronia\n",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 30,
+  "__v": 0
+  
+},{
+  "_id": {
+    "$oid": "5f15da135420d44443ed8e8e"
+  },
+  "image": "https://i.postimg.cc/t4pcT10q/139513190-207183117728159-2876114013515917752-n-removebg-preview.png",
+  "brand": "BreakFast ",
+  "price": 22,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Omelatte",
+  "description": "big statsfying breakfast 3 eggs with frash vegatbles with awesome flavour",
+  "category": {
+    "$oid": "5f88b12f071fce38bbaad5a5"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 30,
+  "__v": 0
+ 
+},{
+  "_id": {
+    "$oid": "5f15da135420d44456ed809e"
+  },
+  "image": "https://postimg.cc/8JHv9ZDw/224d82d3",
+  "brand": "Sandwhiches",
+  "price": 30,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Chicken Cow Boy",
+  "description": "Chicken barger with layers of cheese and grilled onions",
+  "category": {
+    "$oid": "5f9d7e938680aa1d979d7e19"
+  },
+  "reviews": [
+    {
+      "avatar": "https://pbs.twimg.com/profile_images/1760228143/Vetor-Johnny-Bravo-Vetorizado-Corel_400x400.jpg",
+      "name": "Johnny Bravo",
+      "review": "Amazing experience all around"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/asterix/images/3/3c/Asterix.png",
+      "name": "Asterix",
+      "review": "It's very hard. Only managed with resource to magic potion"
+    },
+    {
+      "avatar": "https://vignette.wikia.nocookie.net/looneytunes/images/7/7f/Coyote.gif",
+      "name": "Wild Coyote",
+      "review": "All my trickery and tools paid of. Thank ACME for suggesting this product to me"
+    }
+  ],
+  "countInStock": 30,
+  "__v": 0
+ 
+},{
+  "_id": {
+    "$oid": "5f68fd316170530b7e0afc54"
+  },
+  "image": "https://i.postimg.cc/VNNy4KF0/113292484-119589373154201-5003968019908479567-n-removebg-preview.png",
+  "brand": "BreakFast",
+  "price": 23,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Bamboo Crossiant",
+  "description": "Croosiant with delecuios layers of totmato and mashrowam with fried romy wings with barbacue suace",
+  "category": {
+    "$oid": "5f88b12f071fce38bbaad5a5"
+  },
+  "countInStock": 10,
+  "__v": 0
+  
+},{
+  "_id": {
+    "$oid": "5f691406c7e42c1d374fee5c"
+  },
+  "image": "https://i.postimg.cc/8s8D0LCQ/168812113-253917903054680-8664221125719536202-n-removebg-preview.png",
+  "brand": "Apptizer",
+  "price": 20,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Modzrialla Sticks",
+  "description": "cheesy modzrialla sticks with different choices of sauces",
+  "category": {
+    "$oid": "5f15d467f3a046427a1c26e1"
+  },
+  "countInStock": 40,
+  "__v": 0
+  
+},{
+  "_id": {
+    "$oid": "5f9d37371575750024b1f462"
+  },
+  
+  "image": "https://i.postimg.cc/gJF259tB/125564597-163593718753766-2405594321221404758-n-removebg-preview.png",
+  
+  "brand": "Drinks",
+  "price": 12,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Mango ice Drink",
+  "description": "Mango cold drink golden with slices of mango with ice",
+  "category": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "countInStock": 40,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9d5de284992b00247682b3"
+  },
+  
+  "image": "https://i.postimg.cc/D0ThFGXr/125933040-163843025395502-7503274957541411410-n-removebg-preview.png",
+  
+  "brand": "Drinks",
+  "price": 26,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Ice Latte ",
+  "description": "Amazing Latte with ice You can your Own Flavour",
+  "category": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "countInStock": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9d5ef084992b00247682b4"
+  },
+  
+  "image": "https://i.postimg.cc/mry0xrsq/124653614-162658785513926-2261243452610305933-n-removebg-preview.png",
+  
+  "brand": "Drinks",
+  "price": 25,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": false,
+  "name": "Ice Chocolate",
+  "description": "Chocolate Drink with Ice with amazing flavour You can add honey as extra flavour\n",
+  "category": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "countInStock": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa5bf8d9791235c46678e15"
+  },
+  
+  "image": "https://i.postimg.cc/3xXKRYhj/123842055-160997322346739-5981356780981690013-n-removebg-preview.png",
+  
+  "brand": "Drinks",
+  "price": 43,
+  "rating": null,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Beach Pinnaple",
+  "description": "Pinnaple drink with orange with icy flavour \n",
+  "category": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "countInStock": 33,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb512330ace400024eb0b47"
+  },
+  
+  "image": "https://i.postimg.cc/cL25V82X/119681942-144879380625200-42270606558158367-n-removebg-preview.png",
+  "brand": "Dessert",
+  "price": 12,
+  "rating": 0,
+  "numReviews": 0,
+  "isFeatured": false,
+  "name": "Fruit slade Cup",
+  "description": "Many flowers",
+  "category": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "countInStock": 23,
+  "__v": 0
+}]

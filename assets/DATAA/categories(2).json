@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "5f15d467f3a046427a1c26e1"
+  },
+  "name": "Apptizer",
+  "__v": 0,
+
+  "image": "https://i.postimg.cc/wBkvR4jt/appetizer.png"
+},{
+  "_id": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "name": "Drinks",
+  "__v": 0,
+  "image": "https://i.postimg.cc/kMspYQBx/drink.png"
+},{
+  "_id": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "name": "Dessert",
+  "__v": 0,
+  "image": "https://i.postimg.cc/jS9XPBpg/cake-slice.png"
+},{
+  "_id": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "name": "Casseroles",
+  
+  "__v": 0,
+  "image": "https://i.postimg.cc/XvZ0gZsf/casserole.png"
+  
+},{
+  "_id": {
+    "$oid": "5f88b12f071fce38bbaad5a5"
+  },
+  "name": "BreakFast",
+  "__v": 0,
+  "image": " https://i.postimg.cc/gkQJbP1H/breakfast.png"
+ 
+},{
+  "_id": {
+    "$oid": "5f9d7e938680aa1d979d7e19"
+  },
+  "name": "Sandwhich",
+  "__v": 0,
+  "image": "https://i.postimg.cc/BZM6nFPp/sandwich-1.png"
+ 
+}]
